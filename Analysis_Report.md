@@ -31,8 +31,7 @@
 - The third run had 3 hidden layers, with 30, 15 and 25 neurons. Relu was used in the hidden layers and sigmoid for the output layer. This run had an accuracy of 73%
   
 - The fourth run had 2 hidden layers, with  10 and 8 neurons. Tahn and relu were used for the hidden layers and relu for the output layer with an accuracy of 73%
-
- ## 20 epochs was used in each case
+ 20 epochs was used in each case
   
   Were you able to achieve the target model performance? 
   
