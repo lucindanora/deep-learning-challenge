@@ -7,7 +7,7 @@
 ## **Results**
 ## **Data Preprocessing**
 
-  - What variable(s) are the target(s) for your model? 
+   What variable(s) are the target(s) for your model? 
   
   - The taget vaiable is "IS_SUCCESSFUL" which will indicate if the funding was succesful or not.
   
