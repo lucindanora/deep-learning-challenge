@@ -40,7 +40,7 @@
     
   ## Steps taken to increase performance:
   
-   - Adjusting number of neurons and layers and changing activation functions. None results in any measurable or actionable change of performance.
+   - Adjusting number of neurons and layers and changing activation functions. None resulted in any measurable or actionable change of performance.
   
   
 ## **Summary**
