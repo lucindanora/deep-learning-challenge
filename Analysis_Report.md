@@ -1,4 +1,6 @@
-#**ANALYSIS**
+##**ANALYSIS**
+
+<hr>
 
 **Overview**
   The purpose of this project is to create an algorythm using machine learning that will predict if applicants will be succesful with the money provided by Alphabet Soup.
