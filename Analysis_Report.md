@@ -23,19 +23,28 @@
 
 ## **Compiling, Training, and Evaluating the Model**
 
-  -Number of neurons, layers and activtion functions:
-  The first run had 2 hidden layers, with 10 and 5 neurons. Relu was used in both hidden layers, and sigmoid for the output and accuracy of 73%
-  The second run had 3 hidden layers, with 8,5 and 4 neurons. Tanh was used for all layers and the accuracy was still 73%
-  The third run had 3 hidden layers, with 30, 15 and 25 neruons. Relu was used in the hidden layers and sigmoid for the output layer. This run had an accuracy of 73%
-  The fourth run had 2 hidden layers, with  10 and 8 neurons. Tahn and relu were used for the hidden layers and relu for the output layer with an accuarcy of 73%
-
-  20 epochs was used in each case
+  ## Number of neurons, layers and activtion functions:
   
-  -Were you able to achieve the target model performance? None of the models reached 75%
-  -What steps did you take in your attempts to increase model performance?
+    - The first run had 2 hidden layers, with 10 and 5 neurons. Relu was used in both hidden layers, and sigmoid for the output and accuracy of 73%
+  
+    - The second run had 3 hidden layers, with 8,5 and 4 neurons. Tanh was used for all layers and the accuracy was still 73%
+  
+    - The third run had 3 hidden layers, with 30, 15 and 25 neruons. Relu was used in the hidden layers and sigmoid for the output layer. This run had an accuracy of 73%
+  
+    - The fourth run had 2 hidden layers, with  10 and 8 neurons. Tahn and relu were used for the hidden layers and relu for the output layer with an accuarcy of 73%
+
+ ## 20 epochs was used in each case
+  
+  Were you able to achieve the target model performance? 
+  
+    - None of the models reached 75%
+    
+  Steps taken to increase performance:
+  
+    - Adjusting number of neurons and layers and changing activation functions. None results in any mesurable or actionable change of performance.
   
   
 ## **Summary**
 
 The model's accuracy remained at 73% over various different configurations which could suggest that the choice of neural network architechture and activation functions has little impact on performance.
-Variations in the number of hidden layers and neurons did not significantly affect the models predictive ability and different activation functions (relu and tanh) in the hidden layers also had similar results.
+Variations in the number of hidden layers and neurons did not significantly affect the models predictive ability and different activation functions (relu and tanh) in the hidden layers also had similar results. Future consideratiosn could include further expirimentation with hyperparameters such as learning rate, epoch number or batch size, or exploring alternative model architecture or learning methods.
