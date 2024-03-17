@@ -9,15 +9,15 @@
 
    What variable(s) are the target(s) for your model? 
   
-  - 	The target variable is "IS_SUCCESSFUL" which will indicate if the funding was successful or not.
+  - The target variable is "IS_SUCCESSFUL" which will indicate if the funding was successful or not.
   
    What variable(s) are the features for your model?
 
-   - 	The feature variables are ""APPLICATION_TYPE", "AFFILIATION CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", and "ASK_AMT"
+   - The feature variables are ""APPLICATION_TYPE", "AFFILIATION CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", and "ASK_AMT"
   
   What variable(s) should be removed from the input data because they are neither targets nor features? 
     
-    - The variables "EIN" and "NAME" have been removed as they are not targets of features and these categorical 
+    -The variables "EIN" and "NAME" have been removed as they are not targets of features and these categorical 
       variables will not help the model.
 
 ## **Compiling, Training, and Evaluating the Model**
