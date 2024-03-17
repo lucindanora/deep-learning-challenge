@@ -12,3 +12,4 @@ A deep learning model was used to predict the success of the Alphabet Soup funde
 3. Optomize the Model
 4. Write a Report
    
+Challenge completed with inclass assignments, study group
